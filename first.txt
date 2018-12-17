@@ -1,2 +1,4 @@
 C:\KB\github
 trying to pull this file
+
+2.trying to upload to git this file from desktop
